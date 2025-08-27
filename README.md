@@ -1,7 +1,7 @@
 <!-- Stylish GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Abu Said 👋</h1>
-<h3 align="center">💻 Full Stack Developer | Laravel | React | Vue | Docker</h3>
+<h3 align="center">💻 Full Stack Developer | Laravel | React | Vue | Next.js | Docker</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&width=500&lines=Building+scalable+web+apps;Passionate+about+clean+code;Open+source+contributor;Always+learning+new+tech" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me  
 - 🔭 Currently working on **Laravel SaaS Starter Kit**  
-- 🌱 Exploring **Docker & DevOps best practices**  
+- 🌱 Exploring **Next.js & Docker DevOps best practices**  
 - 💡 Passionate about **performance optimization & scalability**  
 - 📦 Building **WooCommerce & Laravel packages**  
 - 📫 Reach me at: **abusaid.dev@gmail.com**  
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -45,8 +46,8 @@
 - [**WooCommerce Shipping Plugin**](https://github.com/abusaid/woo-shipping)  
   📦 WooCommerce plugin for **auto order creation via courier APIs**  
 
-- [**React Lightbox System**](https://github.com/abusaid/react-lightbox)  
-  🖼️ Reusable **React component** easily integrated into Laravel projects  
+- [**React + Next.js Lightbox System**](https://github.com/abusaid/react-lightbox)  
+  🖼️ Reusable **React/Next.js component** integrated into Laravel projects  
 
 ---
 
@@ -62,7 +63,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/abusaid">
+  <a href="https://linkedin.com/in/abusaid-sheikh-108a622b0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://abusaid.dev">
