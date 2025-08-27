@@ -14,7 +14,7 @@
 - 🌱 Exploring **Next.js & Docker DevOps best practices**  
 - 💡 Passionate about **performance optimization & scalability**  
 - 📦 Building **WooCommerce & Laravel packages**  
-- 📫 Reach me at: **abusaid.dev@gmail.com**  
+- 📫 Reach me at: **abusaidskbabu@gmail.com**  
 - 🌍 Portfolio: [abusaid.dev](https://abusaid.dev)  
 
 ---
