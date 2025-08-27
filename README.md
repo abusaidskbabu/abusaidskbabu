@@ -1,16 +1,82 @@
-## Hi there 👋
+<!-- Stylish GitHub Profile README -->
 
-<!--
-**abusaidskbabu/abusaidskbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Abu Said 👋</h1>
+<h3 align="center">💻 Full Stack Developer | Laravel | React | Vue | Docker</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&width=500&lines=Building+scalable+web+apps;Passionate+about+clean+code;Open+source+contributor;Always+learning+new+tech" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me  
+- 🔭 Currently working on **Laravel SaaS Starter Kit**  
+- 🌱 Exploring **Docker & DevOps best practices**  
+- 💡 Passionate about **performance optimization & scalability**  
+- 📦 Building **WooCommerce & Laravel packages**  
+- 📫 Reach me at: **abusaid.dev@gmail.com**  
+- 🌍 Portfolio: [abusaid.dev](https://abusaid.dev)  
+
+---
+
+## ⚡ Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+- [**Laravel Exam App**](https://github.com/abusaid/exam-app)  
+  📝 Online exam system with **Redis, Horizon & load management**  
+
+- [**Sports Betting Vue App**](https://github.com/abusaid/sports-betting)  
+  ⚽ Real-time betting platform with **Vue.js, WebSockets & Laravel APIs**  
+
+- [**WooCommerce Shipping Plugin**](https://github.com/abusaid/woo-shipping)  
+  📦 WooCommerce plugin for **auto order creation via courier APIs**  
+
+- [**React Lightbox System**](https://github.com/abusaid/react-lightbox)  
+  🖼️ Reusable **React component** easily integrated into Laravel projects  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abusaid&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusaid&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/abusaid">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://abusaid.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://twitter.com/abusaid">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abusaid&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
+
+⭐️ From [abusaid](https://github.com/abusaid)
