@@ -15,7 +15,6 @@
 - 💡 Passionate about **performance optimization & scalability**  
 - 📦 Building **WooCommerce & Laravel packages**  
 - 📫 Reach me at: **abusaidskbabu@gmail.com**  
-- 🌍 Portfolio: [abusaid.dev](https://abusaid.dev)  
 
 ---
 
@@ -37,28 +36,18 @@
 
 ## 🚀 Featured Projects  
 
-- [**Laravel Exam App**](https://github.com/abusaid/exam-app)  
+- [**Laravel Exam App**](https://github.com/abusaidskbabu/exam-app)  
   📝 Online exam system with **Redis, Horizon & load management**  
 
-- [**Sports Betting Vue App**](https://github.com/abusaid/sports-betting)  
+- [**Sports Betting Vue App**](https://github.com/abusaidskbabu/sports-betting)  
   ⚽ Real-time betting platform with **Vue.js, WebSockets & Laravel APIs**  
 
-- [**WooCommerce Shipping Plugin**](https://github.com/abusaid/woo-shipping)  
+- [**WooCommerce Shipping Plugin**](https://github.com/abusaidskbabu/woo-shipping)  
   📦 WooCommerce plugin for **auto order creation via courier APIs**  
 
-- [**React + Next.js Lightbox System**](https://github.com/abusaid/react-lightbox)  
+- [**React + Next.js Lightbox System**](https://github.com/abusaidskbabu/react-lightbox)  
   🖼️ Reusable **React/Next.js component** integrated into Laravel projects  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abusaid&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusaid&layout=compact&theme=radical" height="165"/>
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
@@ -80,4 +69,4 @@
   <img src="https://komarev.com/ghpvc/?username=abusaid&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
-⭐️ From [abusaid](https://github.com/abusaid)
+⭐️ From [abusaid](https://github.com/abusaidskbabu)
