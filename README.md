@@ -36,16 +36,16 @@
 
 ## 🚀 Featured Projects  
 
-- [**Laravel Exam App**](https://github.com/abusaidskbabu/exam-app)  
-  📝 Online exam system with **Redis, Horizon & load management**  
+- [**Laravel Courier App**](https://github.com/abusaidskbabu/XCourier)  
+  📝 Courier management system with **Redis, Horizon & load management**  
 
-- [**Sports Betting Vue App**](https://github.com/abusaidskbabu/sports-betting)  
-  ⚽ Real-time betting platform with **Vue.js, WebSockets & Laravel APIs**  
+- [**Ecommerce Vue App**](https://github.com/abusaidskbabu/mabiY-shop)  
+  ⚽ Multi vendor E-commerce platform with **Vue.js, WebSockets & Laravel APIs**  
 
 - [**WooCommerce Shipping Plugin**](https://github.com/abusaidskbabu/woo-shipping)  
   📦 WooCommerce plugin for **auto order creation via courier APIs**  
 
-- [**React + Next.js Lightbox System**](https://github.com/abusaidskbabu/react-lightbox)  
+- [**React + Next.js System**](https://github.com/abusaidskbabu/next-js-carc-booking)  
   🖼️ Reusable **React/Next.js component** integrated into Laravel projects  
 
 
